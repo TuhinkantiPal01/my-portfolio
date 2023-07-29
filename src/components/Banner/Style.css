@@ -1,0 +1,24 @@
+#banner {
+  background-image: linear-gradient(
+    to right bottom,
+    #34e5ff,
+    #0fe8f4,
+    #05ebe5,
+    #2bedd3,
+    #4beebf,
+    #54efbd,
+    #5df1ba,
+    #65f2b8,
+    #5ef5c8,
+    #5af7d7,
+    #5af9e4,
+    #5ffbf1
+  );
+}
+
+.bannerImage{
+  background-image: url("../../assets/banner.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 300px;
+}
